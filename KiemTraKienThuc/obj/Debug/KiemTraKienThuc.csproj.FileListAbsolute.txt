@@ -1,0 +1,9 @@
+E:\CODING\KIỂM TRA KIẾN THỨC SIMPLE - ASP.NET\KiemTraKienThuc\bin\KiemTraKienThuc.dll
+E:\CODING\KIỂM TRA KIẾN THỨC SIMPLE - ASP.NET\KiemTraKienThuc\bin\KiemTraKienThuc.pdb
+E:\CODING\KIỂM TRA KIẾN THỨC SIMPLE - ASP.NET\KiemTraKienThuc\obj\Debug\KiemTraKienThuc.dll
+E:\CODING\KIỂM TRA KIẾN THỨC SIMPLE - ASP.NET\KiemTraKienThuc\obj\Debug\KiemTraKienThuc.pdb
+D:\KIỂM TRA KIẾN THỨC SIMPLE - ASP.NET\KiemTraKienThuc\bin\KiemTraKienThuc.dll
+D:\KIỂM TRA KIẾN THỨC SIMPLE - ASP.NET\KiemTraKienThuc\obj\Debug\ResolveAssemblyReference.cache
+D:\KIỂM TRA KIẾN THỨC SIMPLE - ASP.NET\KiemTraKienThuc\obj\Debug\KiemTraKienThuc.dll
+D:\KIỂM TRA KIẾN THỨC SIMPLE - ASP.NET\KiemTraKienThuc\obj\Debug\KiemTraKienThuc.pdb
+D:\KIỂM TRA KIẾN THỨC SIMPLE - ASP.NET\KiemTraKienThuc\bin\KiemTraKienThuc.pdb
